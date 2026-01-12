@@ -1,67 +1,71 @@
-# Andrey Quesada  
-### Lead Product Development Engineer @ Intel | Software, Automation & AI | Costa Rica 🇨🇷
+# Andrey Quesada
 
-Senior engineer with **6+ years of production experience at Intel**, building **automation systems, data pipelines, and validation platforms** for large-scale server products. Strong background in **Python, C#, Linux-based systems**, and **AI-assisted engineering**, with hands-on ownership of production code and technical leadership.
+**Software Engineer | Full-Stack Development & AI Workflows**
 
-Currently applying the same production-level standards to **full-stack software systems**, combining backend architecture, modern web technologies, and responsible AI-assisted development.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Focus | Demonstrates |
-|--------|-------|--------------|
-| **[CaterPro](https://github.com/andreyques41/caterpro)** | Full-Stack Platform | Layered architecture, JWT auth, Redis caching, 60+ endpoints, ~85% test coverage |
-| **[Pet E-Commerce API](https://github.com/andreyques41/pet-ecommerce-api)** | Backend System | RESTful design, role-based access, validation patterns, 40+ endpoints |
-| **[Multi-Agent Web System](https://github.com/andreyques41/multi-agent-web-system)** | AI Automation | LLM agents, prompt engineering, agent orchestration applied to web systems |
-| **[Todo List App](https://github.com/andreyques41/todo-list-app)** | Frontend Architecture | Modular JavaScript, MVC pattern, responsive UI |
-| **[Software Engineering Lab](https://github.com/andreyques41/software-engineering-lab)** | Core Skills | Algorithms, SQL, GUI development, focused mini-projects |
+Building production-grade full-stack applications with AI-powered workflows. Recently completed intensive Full-Stack program (Lifter, 2024-2025) with 4+ production-quality projects. 6+ years prior experience at Intel building automation systems for silicon validation at scale.
 
 ---
 
-## 💼 Professional Experience (Summary)
+## Recent Work (2024-2025)
 
-### Intel Corporation — Lead Product Development Engineer
-- Reduced critical-path validation deployment time by **2×** through workflow redesign and automation  
-- Automated validation pipelines, cutting test execution time by **30–40%** and saving **hundreds of thousands USD**  
-- Led and mentored **3–5 engineers**, driving design reviews and technical execution  
-- Introduced **AI-assisted engineering** and agent-based workflows in production environments  
+Built complete applications from scratch demonstrating modern software engineering:
 
-### Intel Corporation — Product Development Engineer
-- Developed C# and Python automation software enabling new validation and calibration capabilities  
-- Built test-generation tools, reducing validation cycle time by **~50%**  
-- Automated large-scale data pipelines, reducing analysis time by **up to 3×**
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**CaterPro**](https://github.com/andreyques41/caterpro) | Full-stack catering platform with 60 endpoints, 85% test coverage | Flask, PostgreSQL, Redis, JWT, Vanilla JS |
+| [**Multi-Agent Web Dev**](https://github.com/andreyques41/multi-agent-web-dev) | AI-powered workflow with 6 specialized agents | Python, CrewAI, LLMs |
+| [**Pet E-commerce API**](https://github.com/andreyques41/pet-ecommerce-api) | RESTful API with 42 endpoints, 78% test coverage | Flask, PostgreSQL, JWT Auth |
+| [**Todo List App**](https://github.com/andreyques41/todo-list-app) | Modular frontend with MVC architecture | HTML, CSS, Vanilla JS, Vite |
+| [**Software Engineering Lab**](https://github.com/andreyques41/software-engineering-lab) | Data structures, algorithms, SQL, GUI app | Python, SQL, Testing |
 
 ---
 
-## 🛠️ Technical Skills
+## What I Build
 
-**Languages**  
-Python, C#, JavaScript (ES6+), SQL, Perl
+**Full-Stack Applications**
+- End-to-end ownership: frontend (JavaScript, HTML/CSS, Vite) + backend (Flask, PostgreSQL, Redis)
+- RESTful APIs with layered architecture (controllers → services → repositories)
+- JWT authentication & role-based access control
+- Database design, optimization, and caching strategies
+- Comprehensive testing (unit + integration)
 
-**Backend & APIs**  
-Flask, RESTful API design, JWT authentication, service-layer architecture, PostgreSQL, Redis
+**AI Workflows**
+- Multi-agent systems with CrewAI for automated development
+- LLM orchestration and prompt engineering
+- Automated code generation and documentation
+- Strategic AI integration in production environments
 
-**Automation & Systems**  
-Validation pipelines, test automation frameworks, workflow automation, Linux-based environments
+**Production Engineering**
+- Security best practices from Intel production environments
+- Scalable architectures and performance optimization
+- Test-driven development with high coverage
+- Clean code principles and maintainable systems
 
-**Data & Analytics**  
-Data pipelines, Python-based analysis, large-scale data processing, JMP
+---
 
-**Frontend**  
-Vanilla JavaScript, HTML5, CSS3, Vite, responsive design
+## Intel Experience (2018-2025)
 
-**Software Architecture**  
-Layered architecture, repository pattern, service layers, MVC
+Production automation for silicon validation:
+- **2×** reduction in critical validation timelines
+- **30-40%** test time reduction (hundreds of thousands USD saved)
+- **3×** faster data analysis through pipeline automation
+- Led teams of 3-5 engineers on production systems
+- Introduced AI-assisted workflows into manufacturing environments
 
-**Security**  
-JWT, bcrypt, role-based access control (RBAC), input validation
+Technologies: Python, C#, SQL, Linux, data pipelines, test automation
 
-**AI-Assisted Development**  
-LLM integration, prompt engineering, agent-based workflows, CrewAI
+---
 
-**DevOps & Tooling**  
-Docker, Git, GitHub Actions, CI/CD pipelines, Linux
+## Currently
 
-**Testing & Quality**  
-pytest, unit and integration testing, coverage analysis
+Focused on **Backend Systems Engineer** roles where I can:
+- Design scalable backend architectures
+- Build production APIs and services
+- Integrate AI as an engineering multiplier
+- Apply production-grade standards to modern web development
+
+---
+
+**Contact**: andreyques41@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/andrey-quesada-mora)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://andreyques41.github.io/portfolio)
