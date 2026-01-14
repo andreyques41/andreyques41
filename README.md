@@ -47,10 +47,10 @@ Built complete applications from scratch demonstrating modern software engineeri
 
 Production automation for silicon validation:
 - **2×** reduction in critical validation timelines
-- **30-40%** test time reduction (hundreds of thousands USD saved)
+- **30%** test time reduction (hundreds of thousands USD saved)
 - **3×** faster data analysis through pipeline automation
-- Led teams of 3-5 engineers on production systems
-- Introduced AI-assisted workflows into manufacturing environments
+- Led teams of 3-4 engineers on production systems
+- Applied AI agents and LLMs to accelerate test creation and validation automation, integrating outputs into production workflows
 
 Technologies: Python, C#, SQL, Linux, data pipelines, test automation
 
@@ -59,10 +59,10 @@ Technologies: Python, C#, SQL, Linux, data pipelines, test automation
 ## Currently
 
 Focused on **Backend Systems Engineer** roles where I can:
-- Design scalable backend architectures
-- Build production APIs and services
-- Integrate AI as an engineering multiplier
-- Apply production-grade standards to modern web development
+- Design scalable backend architectures and production APIs
+- Integrate AI as an engineering multiplier rather than a gimmick
+- Apply production‑grade standards to modern web development
+- Deliver maintainable, well‑tested systems that scale
 
 ---
 
