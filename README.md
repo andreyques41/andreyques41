@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Development & AI Workflows**
 
-Building production-grade full-stack applications with AI-powered workflows. Recently completed intensive Full-Stack program (Lyfter, 2025-2026) with 4+ production-quality projects. 6+ years prior experience at Intel building automation systems for silicon validation at scale.
+Building production-grade full-stack applications with AI-powered workflows. Recently completed intensive Full-Stack program (Lyfter, 2025-2026) with 4+ production-quality projects. 7+ years prior experience at Intel building automation systems for silicon validation at scale.
 
 ---
 
