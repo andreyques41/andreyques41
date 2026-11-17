@@ -1,71 +1,44 @@
 # Andrey Quesada
 
-**Software Engineer | Full-Stack Development & AI Workflows**
+**Software & AI Engineer** · Intel · Co-founder of [Everna](https://everna.lat)
 
-Building production-grade full-stack applications with AI-powered workflows. Recently completed intensive Full-Stack program (Lyfter, 2025-2026) with 4+ production-quality projects. 7+ years prior experience at Intel building automation systems for silicon validation at scale.
+I build data platforms and full-stack systems with agent-first workflows, and verify everything with tests. At Intel I'm the software and AI reference for a ~40-person organization and technical lead for a 7+ engineer development effort.
 
----
-
-## Recent Work (2025-2026)
-
-Built complete applications from scratch demonstrating modern software engineering:
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**CaterPro**](https://github.com/andreyques41/caterpro) | Full-stack catering platform with 60 endpoints, 85% test coverage | Flask, PostgreSQL, Redis, JWT, Vanilla JS |
-| [**Multi-Agent Web Dev**](https://github.com/andreyques41/multi-agent-web-dev) | AI-powered workflow with 6 specialized agents | Python, CrewAI, LLMs |
-| [**Pet E-commerce API**](https://github.com/andreyques41/pet-ecommerce-api) | RESTful API with 42 endpoints, 78% test coverage | Flask, PostgreSQL, JWT Auth |
-| [**Todo List App**](https://github.com/andreyques41/todo-list-app) | Modular frontend with MVC architecture | HTML, CSS, Vanilla JS, Vite |
-| [**Software Engineering Lab**](https://github.com/andreyques41/software-engineering-lab) | Data structures, algorithms, SQL, GUI app | Python, SQL, Testing |
+[Portfolio](https://andreyques41.github.io) · [LinkedIn](https://linkedin.com/in/andrey-quesada-mora)
 
 ---
 
-## What I Build
+## Featured: Everna
 
-**Full-Stack Applications**
-- End-to-end ownership: frontend (JavaScript, HTML/CSS, Vite) + backend (Flask, PostgreSQL, Redis)
-- RESTful APIs with layered architecture (controllers → services → repositories)
-- JWT authentication & role-based access control
-- Database design, optimization, and caching strategies
-- Comprehensive testing (unit + integration)
+A complete business system for a solar-installation company in Costa Rica, designed and built end to end.
 
-**AI Workflows**
-- Multi-agent systems with CrewAI for automated development
-- LLM orchestration and prompt engineering
-- Automated code generation and documentation
-- Strategic AI integration in production environments
+- Deterministic quoting and design engine: client PDFs, DXF drawings and calculation memos.
+- Next.js 16 · FastAPI · Supabase (Postgres with row-level security) · Docker · Vercel · Railway.
+- ~175k lines, 5,000+ automated tests, 174 API route handlers, 36 tables.
+- Drone photogrammetry pipeline: mission planning, WebODM, OpenCV, shapely, Blender.
 
-**Production Engineering**
-- Security best practices from Intel production environments
-- Scalable architectures and performance optimization
-- Test-driven development with high coverage
-- Clean code principles and maintainable systems
+**[Read the case study →](https://github.com/andreyques41/everna-platform)** · [everna.lat](https://everna.lat)
 
----
+## At Intel
 
-## Intel Experience (2018-2025)
+6+ years building automation and data platforms for silicon validation and test:
 
-Production automation for silicon validation:
-- **2×** reduction in critical validation timelines
-- **30%** test time reduction (hundreds of thousands USD saved)
-- **3×** faster data analysis through pipeline automation
-- Led teams of 3-4 engineers on production systems
-- Applied AI agents and LLMs to accelerate test creation and validation automation, integrating outputs into production workflows
+- Full-stack data-analysis platforms (Python, FastAPI, React, Parquet-based pipelines).
+- Agent ecosystems that generate and validate test content, with reusable agents and skills adopted by the team.
+- Multi-agent development with isolated workspaces, quality gates and validators.
+- Governed repositories with a schema-validated single source of truth.
 
-Technologies: Python, C#, SQL, Linux, data pipelines, test automation
+## AI-native engineering
 
----
+Agent orchestration · context engineering · skills and tool design · guardrails · verification of generated work · architecture judgment.
 
-## Currently
+**Stack:** Python, TypeScript, FastAPI, Next.js, PostgreSQL, Supabase, Docker, Vercel, Railway, Cloudflare, GitHub Actions.
 
-Focused on **Backend Systems Engineer** roles where I can:
-- Design scalable backend architectures and production APIs
-- Integrate AI as an engineering multiplier rather than a gimmick
-- Apply production‑grade standards to modern web development
-- Deliver maintainable, well‑tested systems that scale
+## Earlier work
 
----
+From my 2025 full-stack program at Lyfter:
 
-**Contact**: andreyques41@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/andrey-quesada-mora)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://andreyques41.github.io/portfolio)
+- [multi-agent-web-system](https://github.com/andreyq-dev/multi-agent-web-system): six-agent software workflow with CrewAI.
+- [pet-ecommerce-api](https://github.com/andreyq-dev/pet-ecommerce-api): Flask and PostgreSQL REST API, JWT auth, 42 endpoints, 800+ tests.
+- [savora](https://github.com/andreyq-dev/savora): catering management platform (Flask, PostgreSQL, vanilla JS).
+- [software-engineering-lab](https://github.com/andreyq-dev/software-engineering-lab): algorithms, data structures and SQL exercises.
