@@ -1,6 +1,6 @@
 # Andrey Quesada
 
-**Software & AI Engineer** · Intel · Co-founder of [Everna](https://everna.lat)
+**Software & AI Engineer** · Intel · Co-founder of [Everna](https://everna.lat/en)
 
 I build data platforms and full-stack systems with agent-first workflows, and verify everything with tests. At Intel I'm the software and AI reference for a ~40-person organization and technical lead for a 7+ engineer development effort.
 
@@ -17,7 +17,7 @@ A complete business system for a solar-installation company in Costa Rica, desig
 - ~175k lines, 5,000+ automated tests, 174 API route handlers, 36 tables.
 - Drone photogrammetry pipeline: mission planning, WebODM, OpenCV, shapely, Blender.
 
-**[Read the case study →](https://github.com/andreyques41/everna-platform)** · [everna.lat](https://everna.lat)
+**[Read the case study →](https://github.com/andreyques41/everna-platform)** · [everna.lat/en](https://everna.lat/en)
 
 ## At Intel
 
