@@ -21,11 +21,13 @@ A complete business system for a solar-installation company in Costa Rica, desig
 
 ## At Intel
 
-6+ years building automation and data platforms for silicon validation and test:
+8 years in silicon validation and test, from test-program development to enterprise data platforms and AI-agent engineering:
 
-- Full-stack data-analysis platforms (Python, FastAPI, React, Parquet-based pipelines).
-- Agent ecosystems that generate and validate test content, with isolated workspaces, quality gates and reusable agents and skills adopted by the team.
-- Governed repositories with a schema-validated single source of truth.
+- **Enterprise data-analysis systems:** full-stack platforms (Python, FastAPI, React, Parquet/Polars/DuckDB) with durable workers, scheduled runs, RBAC and GitOps publishing. Analyses that took weeks now take hours.
+- **AI agents for mechanical work:** agents that generate and validate test content, with isolated workspaces, quality gates and reusable agents and skills adopted by the team.
+- **Scalable foundations:** the team's information restructured into a schema-validated source of truth, so AI tools work on it more efficiently and one engineer can scale from one server product to three in parallel.
+- **Silicon domain:** production test-program modules, Python DFT tooling and yield analyses.
+- Tools are in use across an 18-person group and designed for wider adoption.
 
 ## AI-native engineering
 
@@ -35,9 +37,6 @@ Agent orchestration · context engineering · skills and tool design · guardrai
 
 ## Earlier work
 
-From my 2025 full-stack program at Lyfter:
+In 2025 I completed Lyfter's intensive professional full-stack engineering program, the foundation for Everna: relational modeling in PostgreSQL, REST APIs with JWT auth (42 endpoints, 800+ tests), multi-agent workflows with CrewAI, and algorithms and data structures.
 
-- [multi-agent-web-system](https://github.com/andreyq-dev/multi-agent-web-system): six-agent software workflow with CrewAI.
-- [pet-ecommerce-api](https://github.com/andreyq-dev/pet-ecommerce-api): Flask and PostgreSQL REST API, JWT auth, 42 endpoints, 800+ tests.
-- [savora](https://github.com/andreyq-dev/savora): catering management platform (Flask, PostgreSQL, vanilla JS).
-- [software-engineering-lab](https://github.com/andreyq-dev/software-engineering-lab): algorithms, data structures and SQL exercises.
+Code: [multi-agent-web-system](https://github.com/andreyq-dev/multi-agent-web-system) · [pet-ecommerce-api](https://github.com/andreyq-dev/pet-ecommerce-api) · [savora](https://github.com/andreyq-dev/savora) · [software-engineering-lab](https://github.com/andreyq-dev/software-engineering-lab)
