@@ -37,6 +37,6 @@ Agent orchestration · context engineering · skills and tool design · guardrai
 
 ## Earlier work
 
-In 2025 I completed Lyfter's intensive professional full-stack engineering program, the foundation for Everna: relational modeling in PostgreSQL, REST APIs with JWT auth (42 endpoints, 800+ tests), multi-agent workflows with CrewAI, and algorithms and data structures.
+In 2025 I completed Lyfter's professional full-stack engineering program, a two-year track that I finished in one year. It set the foundation for Everna: relational modeling in PostgreSQL, REST APIs with JWT auth (42 endpoints, 800+ tests), multi-agent workflows with CrewAI, and algorithms and data structures.
 
 Code: [multi-agent-web-system](https://github.com/andreyq-dev/multi-agent-web-system) · [pet-ecommerce-api](https://github.com/andreyq-dev/pet-ecommerce-api) · [savora](https://github.com/andreyq-dev/savora) · [software-engineering-lab](https://github.com/andreyq-dev/software-engineering-lab)
