@@ -14,8 +14,8 @@ A complete business system for a solar-installation company in Costa Rica, desig
 
 - Deterministic quoting and design engine: client PDFs, DXF drawings and calculation memos.
 - Next.js 16 · FastAPI · Supabase (Postgres with row-level security) · Docker · Vercel · Railway.
-- ~175k lines, 5,000+ automated tests, 174 API route handlers, 36 tables.
-- Drone photogrammetry pipeline: mission planning, WebODM, OpenCV, shapely, Blender.
+- ~175k lines, 5,000+ automated tests, 36 tables.
+- Drone photogrammetry pipeline: WebODM, OpenCV, shapely, Blender.
 
 **[Read the case study →](https://github.com/andreyques41/everna-platform)** · [everna.lat/en](https://everna.lat/en)
 
@@ -24,8 +24,7 @@ A complete business system for a solar-installation company in Costa Rica, desig
 6+ years building automation and data platforms for silicon validation and test:
 
 - Full-stack data-analysis platforms (Python, FastAPI, React, Parquet-based pipelines).
-- Agent ecosystems that generate and validate test content, with reusable agents and skills adopted by the team.
-- Multi-agent development with isolated workspaces, quality gates and validators.
+- Agent ecosystems that generate and validate test content, with isolated workspaces, quality gates and reusable agents and skills adopted by the team.
 - Governed repositories with a schema-validated single source of truth.
 
 ## AI-native engineering
